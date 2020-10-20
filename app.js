@@ -1,5 +1,5 @@
 const addTodoform = document.querySelector("#addTodoForm");
-const addTodoinput = document.querySelector("addTodoinputfield");
+const addTodoinput = document.querySelector("#addTodoInputfield");
 const todoList = document.querySelector("#todoList");
 
 //Set focus on text input
